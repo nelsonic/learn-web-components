@@ -16,6 +16,8 @@ https://www.polymer-project.org/0.5/docs/start/tutorial/intro.html
 
 ## Research
 
+### Video
+
 + **Google IO 2013 Eric Bidelman** presents Web Components:
 https://youtu.be/fqULJBBEVQE
 + The **Web Components Revolution** is ***Here*** - Eric Bidelman:
@@ -26,6 +28,15 @@ Web Development - Matthew McNulty: https://youtu.be/8-Zq2KUN6jM
 https://youtu.be/2toYLLcoY14
 + **Addy Osmani** - Componentize the Web - **LXJS** 2014:
 https://youtu.be/GOPXVLxp9Nc (History Lesson + intro to Polymer)
+
+### Reading
+
++ CSS Tricks Guide to Web Components:
+https://css-tricks.com/modular-future-web-components/
++ Are We Componentized Yet?
+http://jonrimmer.github.io/are-we-componentized-yet/
++ Ordered [**Developing Web Components: UI from jQuery to Polymer (Paperback)**](http://www.amazon.co.uk/gp/product/1491949023)
+> + [ ] Read book and complete this tutorial.
 
 ## tl;dr
 
